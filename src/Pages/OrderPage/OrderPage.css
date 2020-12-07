@@ -1,0 +1,26 @@
+.orderPage {
+    background-color: #121618;
+    padding: 5rem 0;
+}
+.orderPage__search {
+    border: 1px solid #fff;
+    margin: 0 0 4rem 0;
+    position: relative;
+}
+.orderPage__search > input {
+    background-color: #121618;
+    outline: none;
+    border: none;
+    padding: 0.5rem;
+    flex: 1;
+    color: gray;
+    width: 100%;
+}
+.iconSearch {
+    color: #fff;
+    margin-left: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(-50%, 25%);
+}

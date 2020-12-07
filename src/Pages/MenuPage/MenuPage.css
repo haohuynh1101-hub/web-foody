@@ -1,0 +1,26 @@
+.menuPage {
+    background-color: #fff;
+}
+
+.menupage__menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
+.menupage__menu > h2 {
+    color: #333;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: 1px;
+    font-size: 24px;
+    margin: 2rem 1rem;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.menupage__menu > h2:hover {
+    color: #ffc851;
+}
+
+/*animation*/

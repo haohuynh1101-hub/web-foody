@@ -1,0 +1,33 @@
+.section3 {
+    background-image: url("../../../assets/images/back_3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 5rem 0;
+}
+.section3__left > h2 {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1;
+    letter-spacing: 3px;
+}
+.section3__left > h3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 3rem 0;
+}
+.section3__left > p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+.section3__right > p {
+    padding: 1rem;
+    border: 2px solid #333;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 300;
+}

@@ -1,0 +1,197 @@
+.detailPage {
+    background-color: #fff;
+    padding: 5rem 0;
+}
+.detailPage__menuCategories {
+    background-color: #1d2326;
+    padding: 30px 20px;
+}
+.detailPage__menuCategories > h5 {
+    color: #fff;
+    line-height: 1;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+.menucategories {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid gray;
+}
+.menucategories > a {
+    color: #fff;
+    font-weight: 300;
+    line-height: 1;
+    font-size: 16px;
+}
+.menuCategories__iconRight {
+    color: #fff;
+}
+
+.detailPage__tags {
+    background-color: #1d2326;
+    padding: 30px 20px;
+    margin: 3rem 0;
+}
+.detailPage__tags > h5 {
+    color: #fff;
+    line-height: 1;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+}
+.detailPage__tags > ul > li {
+    display: inline-block;
+    justify-content: space-between;
+    border: 1px solid gray;
+    margin: 1rem 0.5rem;
+    padding: 0.5rem;
+    transition: all 0.3s ease-in-out;
+}
+.detailPage__tags > ul > li:hover {
+    border: 1px solid #ffc107;
+}
+.detailPage__tags > ul > li:hover > a {
+    color: #ffc107;
+}
+.detailPage__tags > ul > li > a {
+    color: #fff;
+    font-weight: 300;
+    line-height: 1;
+    font-size: 16px;
+    padding: 0 1rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.detailPage__itemDetail > h2 {
+    color: #333;
+    line-height: 1;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.detailPage__itemPrice {
+    color: #ffc107;
+    line-height: 1;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 2rem 0;
+}
+.detailPage__itemDescription {
+    color: #333;
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 200;
+}
+
+.detailPage__btn {
+    margin: 3rem 0;
+}
+.detailPage__btn > span {
+    color: #333;
+    border: 1px solid #333;
+    padding: 1rem;
+    font-size: 16px;
+}
+.detailPage__btn > button {
+    color: #333;
+    padding: 1rem;
+    font-size: 16px;
+    background-color: #ffc851;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    margin: 0 2rem;
+    border: 1px solid #ffc851;
+    transition: all 0.3s ease-in-out;
+}
+.detailPage__btn > button:hover {
+    background-color: #121618;
+    color: #ffc107;
+}
+.img__detail {
+    width: 360px;
+    height: auto;
+    object-fit: contain;
+}
+
+.detailPage__productRelated {
+    background-color: #1d2326;
+    padding: 10px 20px;
+    border-radius: 2px;
+    position: relative;
+    cursor: pointer;
+    margin: 5rem 0;
+}
+.detailPage__productRelated:hover > h5 {
+    color: #ffc107;
+}
+.detailPage__productRelated > h5 {
+    color: #fff;
+    line-height: 1;
+    font-weight: 500;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 4rem 0 1rem 0;
+    transition: all 0.3s ease-in-out;
+    user-select: none;
+}
+.productRelated__itemDescription {
+    color: #fff;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 200;
+    text-align: center;
+    user-select: none;
+}
+.productRelated__itemPrice {
+    color: #fff;
+    line-height: 1;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    text-align: center;
+    user-select: none;
+}
+.detailPage__productRelated > img {
+    width: 110px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 100%;
+    position: absolute;
+    top: 0;
+    left: 25%;
+    transform: translate(0, -50%);
+}
+.btn__realted {
+    color: #333;
+    padding: 0.5rem;
+    font-size: 12px;
+    background-color: #ffc851;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+    margin: 0 2rem;
+    border: 1px solid #ffc851;
+    transition: all 0.3s ease-in-out;
+}
+.btn__realted:hover {
+    background-color: #121618;
+    color: #ffc107;
+}
+.related__title {
+    color: #fff;
+    line-height: 1;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 32px;
+    text-align: center;
+}
+.related__product {
+    margin: 3rem 0 2rem 0;
+}

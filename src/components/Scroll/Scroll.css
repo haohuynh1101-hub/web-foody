@@ -1,0 +1,12 @@
+.toTop {
+    z-index: 2;
+    position: fixed;
+    bottom: 2vh;
+    color: black;
+    right: 5%;
+}
+.toTop:hover + .toTop:focus-visible {
+    transition: 0.3s;
+    color: #397ba6;
+    background-color: red;
+}

@@ -1,0 +1,29 @@
+{
+    "navbar":{
+        "part1":"trang chủ",
+        "part2":"danh mục",
+        "part3":"chi tiết",
+        "part4":"chúng tôi",
+        "part5":"blog",
+        "part6":"cửa hàng",
+        "part7":"liên hệ"
+
+    },
+    "slideshow":{
+        "title":"pizza cổ điển",
+        "subTitle":"Làm cho bạn cảm thấy hạnh phúc",
+        "detail":"Pha trộn với công thức người Italya",
+        "button":{
+            "button1":"Đặt ngay",
+            "button2":"Xem Menu"
+        }
+    },
+    "section3":{
+        "title":"WE ARE VINCENT",
+        "detail1":"CHÚNG TÔI KHÔNG CHỈ LÀM PIZZA. CHÚNG TÔI LÀM CHO CON NGƯỜI LÀ NGÀY. VINCENT PIZZERIA ĐƯỢC TẠO THÀNH NIỀM TIN RẰNG PIZZA NÊN ĐẶC BIỆT VÀ CHÚNG TÔI SẮP XẾP NIỀM TIN ĐÓ VÀO MỌI VIỆC CHÚNG TÔI LÀM.",
+        "detail2":"Mục đích của chúng tôi tại Vincent là gì? Những khoảnh khắc của sự phấn khích. Tất cả đều có thể thực hiện được nhờ hương vị, sự đổi mới và quan trọng nhất là bằng cách mở ra tiềm năng trong các thành viên trong nhóm của chúng tôi",
+        "detail3":"Với hơn 50 năm kinh nghiệm, chúng tôi hiểu cách phục vụ khách hàng tốt nhất thông qua các nguyên tắc phục vụ cố gắng và đúng đắn. Thay vì chạy theo xu hướng, chúng tôi đặt ra. Chúng tôi tạo ra món ăn mà chúng tôi tự hào được phục vụ và giao hàng nhanh chóng, với một nụ cười. Dù bạn tìm thấy chúng tôi ở đâu, chúng tôi đảm bảo mỗi bữa ăn mà khách hàng thưởng thức đều ngon và có một không hai.",
+        "detail4":"Vincent là một trong những nhà hàng đầu tiên tôi khám phá khi chuyển đến New York vào mùa hè năm ngoái, và nó vẫn là một nhà hàng yêu thích. Mặc dù thực đơn khá lớn của nó với đầy đủ mì ống, bánh mì và pizza, tôi hầu như luôn nhận được cùng một thứ - pizza Vincent. Nó được làm bằng nước sốt Ricotta & Marinara, gia vị với lá oregano, và phủ cà tím, hành tím, húng quế, Pecorino Romano và Mozzarella. Đó thực sự là một trong những chiếc bánh pizza ngon nhất mà tôi từng ăn - và tôi ăn rất nhiều bánh pizza.",
+        "detail5":"Bánh pizza rất ngon! Vỏ bánh mỏng và giòn, nước sốt tuyệt vời, và hỗn hợp pho mát tuyệt vời. Và nó tạo nên một buổi hẹn hò rẻ tiền dễ thương! "
+    }
+}

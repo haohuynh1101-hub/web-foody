@@ -1,0 +1,35 @@
+.homepage__section2 {
+    background-image: url("../../../assets//images/back_2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.section__detail > h2,
+p {
+    /* text-align: center;
+    margin: 2rem 0 2rem 0; */
+}
+.section__img {
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section__img > img {
+    margin: 5rem 0 0 0;
+}
+.section__detail > h2 {
+    font-weight: 400;
+    line-height: 1;
+    font-size: 32px;
+    letter-spacing: 1;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2rem 0;
+}
+.section__detail > p {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 0 2rem 0;
+}

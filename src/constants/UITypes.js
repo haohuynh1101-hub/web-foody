@@ -1,0 +1,2 @@
+export const MSG_ADD_SUCCESS = "MSG_ADD_SUCCESS";
+export const MSG_ADD_FAILED = "MSG_ADD_FAILED";

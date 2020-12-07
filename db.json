@@ -1,0 +1,525 @@
+{
+    "foods":[
+        {
+            "id":1,
+            "name":"Pizzas",
+            "submenu":[
+                {
+                    "id":1,
+                    "title":"pizza",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTExMDdfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251107_1.png"
+                },
+                {
+                    "id":2,
+                    "title":"MARGHERITA",
+                    "price":2.60,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTFfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251091_1.png"
+                },
+                {
+                    "id":3,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"hhttps://secure.breezepos.net/image/ODEyNTExMTBfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251110_1.png"
+                },
+                {
+                    "id":4,
+                    "title":"VENETIA",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTdfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251097_1.png"
+                },
+                {
+                    "id":5,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTVfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251095_1.png"
+                },
+                {
+                    "id":6,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTlfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251099_1.png"
+                },
+                {
+                    "id":7,
+                    "title":"florence",
+                    "price":3.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTExMDNfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251103_1.png"
+                },
+                {
+                    "id":8,
+                    "title":"florence",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTExMDRfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251104_1.png"
+                },
+                {
+                    "id":9,
+                    "title":"florence",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTExNDJfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251142_1.png"
+                },
+                {
+                    "id":10,
+                    "title":"florence",
+                    "price":2.70,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwODhfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251088_1.png"
+                },
+                {
+                    "id":11,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTRfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251094_1.png"
+                },
+                {
+                    "id":12,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwOTJfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251092_1.png"
+                }
+           
+           
+            ]
+        },
+        {
+            "id":2,
+            "name":"Desserts",
+            "submenu":[
+                {
+                    "id":1,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/chocolate@2x_0.png"
+                },
+                {
+                    "id":2,
+                    "title":"MARGHERITA",
+                    "price":2.60,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/fruit@2x_1_0.png"
+                },
+                {
+                    "id":3,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/exotics_pastry@2x_0.png"
+                },
+                {
+                    "id":4,
+                    "title":"VENETIA",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/black_forest@2x_0.png"
+                },
+                {
+                    "id":5,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/butterscotch@2x_0.png"
+                },
+                {
+                    "id":6,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/vanilla@2x_2_0.png"
+                },
+                {
+                    "id":7,
+                    "title":"florence",
+                    "price":3.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/coffee@2x_2_0.png"
+                },
+                {
+                    "id":8,
+                    "title":"florence",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/stawberry@2x_0.png"
+                },
+                {
+                    "id":9,
+                    "title":"florence",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/vanilla@2x_2_0.png"
+                },
+                {
+                    "id":10,
+                    "title":"florence",
+                    "price":2.70,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/butterscotch@2x_0.png"
+                },
+                {
+                    "id":11,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/black_forest@2x_0.png"
+                },
+                {
+                    "id":12,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://media.bakingo.com/sites/default/files/fruit@2x_1_0.png"
+                }
+           
+           
+            ]
+        },
+        {
+            "id":3,
+            "name":"Drinks",
+            "submenu":[
+                {
+                    "id":1,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA3NDhfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250748_1.png"
+                },
+                {
+                    "id":2,
+                    "title":"MARGHERITA",
+                    "price":2.60,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA5ODhfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250988_1.png"
+                },
+                {
+                    "id":3,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA4MjVfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250825_1.png"
+                },
+                {
+                    "id":4,
+                    "title":"VENETIA",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA4MzNfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250833_1.png"
+                },
+                {
+                    "id":5,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwMzhfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251038_1.jpg"
+                },
+                {
+                    "id":6,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwMjlfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251029_1.jpg"
+                },
+                {
+                    "id":7,
+                    "title":"florence",
+                    "price":3.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA5OTFfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250991_1.png"
+                },
+                {
+                    "id":8,
+                    "title":"florence",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwNjVfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251065_1.jpg"
+                },
+                {
+                    "id":9,
+                    "title":"florence",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwNDlfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251049_1.jpg"
+                },
+                {
+                    "id":10,
+                    "title":"florence",
+                    "price":2.70,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA5OTBfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250990_1.png"
+                },
+                {
+                    "id":11,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTEwNDBfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81251040_1.jpg"
+                },
+                {
+                    "id":12,
+                    "title":"florence",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://secure.breezepos.net/image/ODEyNTA4MzVfMjIyXzIyMl8xXzJfX190cmFuc3BhcmVudA/81250835_1.png"
+                }
+           
+           
+            ]
+        },
+        {
+            "id":4,
+            "name":"Chicken",
+            "submenu":[
+                {
+                    "id":1,
+                    "title":"super chicken",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/d1834d87116836-2mingggin.png"
+                },
+                {
+                    "id":2,
+                    "title":"chicken",
+                    "price":2.60,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/427e7a3136f84a-4mingggin.png"
+                },
+                {
+                    "id":3,
+                    "title":"old chicken",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/ee8e7512368728-6mingggin.png"
+                },
+                {
+                    "id":4,
+                    "title":"Combo rice-chicken",
+                    "price":4.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/6d2e290195e851-cmggin.png"
+                },
+                {
+                    "id":5,
+                    "title":"Small chicken",
+                    "price":2.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/d07da082f7ebc7-2810016_02miengcj01khoaivua01pepsi.png"
+                },
+                {
+                    "id":6,
+                    "title":"rice-chicken",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/091277ef7fe806-hinhghep22.png"
+                },
+                {
+                    "id":7,
+                    "title":"chicken",
+                    "price":3.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/0ade732c6f5968-2810014_comga01pepsi.png"
+                },
+                {
+                    "id":8,
+                    "title":"s-chicken",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/18d46e3c3c7c3f-2810004_01miengcj01khoaivua01pepsi.png"
+                },
+                {
+                    "id":9,
+                    "title":"spicy rice",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/3e4f6705b1d1ed-1810001_01miengcj1.jpg"
+                },
+                {
+                    "id":10,
+                    "title":"rice",
+                    "price":2.70,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/38b2b63ad78a31-1gstcaycm.jpg"
+                },
+                {
+                    "id":11,
+                    "title":"chicken",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/0ea5c976da5a4a-2minggsgstcay.png"
+                },
+                {
+                    "id":12,
+                    "title":"chicken-spice",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/1be860c93c1cbf-2810053_02cc01reg01pepsi.png"
+                }
+           
+           
+            ]
+        },
+        {
+            "id":5,
+            "name":"Burgers",
+            "submenu":[
+                {
+                    "id":1,
+                    "title":"Burger fish",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/f0509916cba46a-2860002_sandwichga01pepsi.png"
+                },
+                {
+                    "id":2,
+                    "title":"Burger Shrimp",
+                    "price":2.60,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/ca79195ff54344-2860007_sandwichbbq01khoaivua01pepsi.png"
+                },
+                {
+                    "id":3,
+                    "title":"Burger Chicken",
+                    "price":3.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/92d19ff9ee533e-2860006_01sandwichbbq01pepsi.png"
+                },
+                {
+                    "id":4,
+                    "title":"Burger pork",
+                    "price":2.0,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/20522844a2900d-1830004_sandwichesbbq.png"
+                },
+                {
+                    "id":5,
+                    "title":"Sanwich",
+                    "price":1.50,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/92d27d47dadbfc-hambugerlon.jpg"
+                },
+                {
+                    "id":6,
+                    "title":"Super Burger",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/50bab994fefc3d-2860003_sandwichga01khoaivua01pepsi.png"
+                },
+                {
+                    "id":7,
+                    "title":"florence",
+                    "price":3.40,
+                    "status":"",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/999e149f170dbe-2mienggaran13.png"
+                },
+                {
+                    "id":8,
+                    "title":"florence",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/447a479164677f-2mienggaran17.png"
+                },
+                {
+                    "id":9,
+                    "title":"Small Burger",
+                    "price":2.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/99da79db6f9f3e-600x6001.png"
+                },
+                {
+                    "id":10,
+                    "title":"Burger",
+                    "price":2.70,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://demo-storage.com/pm/html/vincent/img/11-3-600x600.png"
+                },
+                {
+                    "id":11,
+                    "title":"ice-cream",
+                    "price":1.50,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/d01402ed11976b-kemsundeadau.png"
+                },
+                {
+                    "id":12,
+                    "title":"ice-cream",
+                    "price":1.10,
+                    "status":"hot sale",
+                    "description":"",
+                    "image":"https://jollibee.com.vn/uploads/dish/0a007e20d0c26c-kemsundeavietquat.png"
+                }
+           
+           
+            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,27 @@
+.cartTotal {
+    color: #fff;
+    margin: 4rem 0;
+}
+.cartTotal > h2 {
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+.cartTotal > button {
+    padding: 1rem;
+    color: #fff;
+    background-color: #ffc107;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+    outline: none;
+    border: 1px solid #ffc107;
+    transition: all 0.3s ease-in-out;
+}
+.d-flex > h5 {
+    font-weight: 300;
+}
+.cartTotal > button:hover {
+    background-color: #252c30;
+    border: 1px solid #252c30;
+}

@@ -1,0 +1,59 @@
+.hotsale {
+    background-color: #121618;
+}
+.hotsale__img > img {
+    width: 150px;
+    height: auto;
+    object-fit: fill;
+}
+.hotsale__title > h1 {
+    text-align: center;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: 2px;
+    font-size: 32px;
+    text-transform: uppercase;
+    font-weight: 4500;
+    text-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.12);
+    transition: all 0.35s ease-in-out;
+    padding: 8rem 0 2rem 0;
+}
+.hotsale__detail {
+    cursor: pointer;
+    margin: 0 1rem;
+}
+.hotsale__detail:hover > h2 {
+    color: #ffc107;
+}
+.hotsale__detail > h2 {
+    text-align: center;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: 2px;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 2rem 0;
+    font-weight: 400;
+    text-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.12);
+    transition: all 0.35s ease-in-out;
+}
+.hotsale__detail > p {
+    text-align: center;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: 200;
+    /* text-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.12); */
+}
+.hotsale__detail > h3 {
+    text-align: center;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: 2px;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 2rem 0;
+    font-weight: 300;
+    text-shadow: 0.4px 0.4px 12px rgba(0, 0, 0, 0.12);
+}
